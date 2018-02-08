@@ -1,82 +1,40 @@
 # Mecanismos
 
-
 Software para aprender mecanismos
 
-
-
-
 /Posibles mecanismos a tratar.
-
-
-*Transmisi髇 de movimiento lineal-lineal
-  
-	_Palancas
-  
-	_Poleas
-  
-	_Polipastos
-*Transmisi髇 de movimiento de circular-circular
-  
-	_Engranajes
-  
-	_Ruedas de fricci髇
-  
-	_Poleas con correa
-  
-	_Engranajes con cadena
-  
-	_Engranajes conicos
-  
-	_Tornillo sin fin
-  
-	_Cruz de Malta
-
-
-*Transminisi髇 movimiento circular-lineal
-
+*Transmisi贸n de movimiento lineal-lineal
+  	_Palancas
+  	_Poleas
+  	_Polipastos
+*Transmisi贸n de movimiento de circular-circular
+  	_Engranajes
+  	_Ruedas de fricci贸n
+  	_Poleas con correa
+  	_Engranajes con cadena
+  	_Engranajes conicos
+  	_Tornillo sin fin
+  	_Cruz de Malta
+*Transminisi贸n movimiento circular-lineal
  	_Rueda
-  	
-	_Pi駉n cremallera
-  
-	_Tornillo tuerca
-  
-	_Manivela torno
-
-
-*Transminisi髇 movimiento circular-lineal alternativo
-
+  	_Pi帽on cremallera
+  	_Tornillo tuerca
+  	_Manivela torno
+*Transminisi贸n movimiento circular-lineal alternativo
 	_Biela manivela
-  
-	_Cigue馻l
-  
-	_Leva
-  
-	_Excentrica
-
-
-*Absorci髇 de energ韆
-  
-	_Muelles
-  
-	_Cilindros neumaticos e hidraulicos
-  
-	_Gomas
+  	_Cigue帽al
+  	_Leva
+  	_Excentrica
+*Absorci贸n de energ铆a
+  	_Muelles
+  	_Cilindros neumaticos e hidraulicos
+  	_Gomas
 *Acoplamientos
-  
-	_Uni髇 Cardan
-  
-	_Uni髇 Oldhan
-  
-	_Embregues
-
-
+  	_Uni贸n Cardan
+  	_Uni贸n Oldhan
+  	_Embregues
 *Control del sentido de giro
-  
-	_Trinquete
-
-
+  	_Trinquete
 *Control de velocidad de giro
-  
-	_Frenos
+  	_Frenos
  
