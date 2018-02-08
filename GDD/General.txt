@@ -1,1 +1,12 @@
-La aplicaci�n/juego trata
+La aplicación/juego trata de superar los distintos niveles .
+Tu eres la carga que deberas ser transportada, hasta el punto de salida, en función de los mecanismos de cada pantalla tendremos que calcular velocidad, distancia, sentido de giro, fuerza, ...
+
+Esta por definir si sera 2D o 3D. Aunque podria aver pantalla 2D y pantallas 3D
+
+*Pantalla 
+Se encuentra dividida en cuatro zonas:
+  1.-Zona de juego. Donde se encuentra situada la carga y la salida. Asi como elementos intermedios y donde se colocaran los elementos necesarios para conseguir el transporte de la carga hasta la salida.
+  2.-Zona de elementos intermedios. Donde se encuentran elementos que podemos arrastrar a la zona de juego para colocarlos en la posicion deseada. Para que el mecanismo transporte la carga hasta la salida.
+  3.-Zona de Play. En esta zona podemos encontrar un boton de play, pausa y stop.
+  4.-Zona de informacion. Aqui podemos ver la pantalla en la que nos encontramos, puntuacion obtenida.
+  
