@@ -1,12 +1,34 @@
 La aplicación/juego trata de superar los distintos niveles .
-Tu eres la carga que deberas ser transportada, hasta el punto de salida, en función de los mecanismos de cada pantalla tendremos que calcular velocidad, distancia, sentido de giro, fuerza, ...
+Para superar cada nivel tendras que posicionar la carga en el punto de salida donde tendra que permanecer 2 segundo, en función de los mecanismos de cada pantalla tendremos que calcular velocidad, distancia, sentido de giro, fuerza, ...
 
-Esta por definir si sera 2D o 3D. Aunque podria aver pantalla 2D y pantallas 3D
+Esta por definir si sera 2D o 3D. Aunque podria haber pantallas 2D y pantallas 3D
 
 *Pantalla 
 Se encuentra dividida en cuatro zonas:
   1.-Zona de juego. Donde se encuentra situada la carga y la salida. Asi como elementos intermedios y donde se colocaran los elementos necesarios para conseguir el transporte de la carga hasta la salida.
   2.-Zona de elementos intermedios. Donde se encuentran elementos que podemos arrastrar a la zona de juego para colocarlos en la posicion deseada. Para que el mecanismo transporte la carga hasta la salida.
   3.-Zona de Play. En esta zona podemos encontrar un boton de play, pausa y stop.
-  4.-Zona de informacion. Aqui podemos ver la pantalla en la que nos encontramos, puntuacion obtenida.
+  4.-Zona de informacion. Aqui podemos ver la pantalla en la que nos encontramos, puntuacion obtenida, tiempo restante, numero de intentos de cada nivel, Explicacion del nivel, Explicaciones de los mecanismos desbloqueados.
+
+*Registro de datos:
+Realizar un registro de cada usuario donde se pueda almacenar:
+-Correo electronico
+-Nombre
+-Apellidos
+-Fecha
+-Puntuacion
+
+*Explicaciones
+Al inicio de cada nivel se indicara que se debe hacer en ese nivel. Asi como cuando se añadan nuevos mecanismos se dara un breve explicacion del funcionamiento del mecanismo con la formula que rige su comportamiento.
+A la explicacion del nivel se podra acceder desde la zona de informacion de cada nivel.
+A las explicaciones de los distintos mecanismos se podra acceder desde la zona de informacion. Pero solo se accedera a los mecanismos desbloqueados hasta el momento.
+
+*Inicio del juego
+Apareceras en una pantalla en la que seleccionas el nivel al que quieres jugar. No pudiendo jugar a los niveles no desbloqueados. Previamente tendras que haberte logeado, para poder seleccionar los niveles.
   
+*Formulario de registro.
+La primera vez que accedas al juego tendras que resitrarte, añadiendo:
+-Correo electronico
+-Nombre
+-Apellidos
+-Fecha
